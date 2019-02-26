@@ -1,0 +1,7 @@
+BASEABLE CHANGELOG
+- added option to switch between "all mode" // to view all AND "some" mode // to view ONE PERSON. 
+ previously this was done using the console with you having to type, now its integrated into the software.
+
+- tidied up the code.
+
+-changed Adress to Position as this will be more fitting for companies.
