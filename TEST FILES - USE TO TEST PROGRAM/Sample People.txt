@@ -1,0 +1,7 @@
+NAME, ADRESS, ID, DEPARTMENT
+John Wilkinson, __Main__ Street, 1, Marketing
+James Smith, __init__ Avenue, 2, Executive
+Willie Markusson, {self} Street, 3, IT
+Line 4, Var 4, 4, Var4.3
+Line 5, Var 5, 5, Var5.3
+Line 6, Var 6, 6, Var6.3
