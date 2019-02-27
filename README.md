@@ -7,3 +7,5 @@ Compressed with UPX : 6.88 MB (7,216,382 bytes)
 
 Compressed Folder:
 87 bytes (87 bytes)
+
+The Compressed folder can be found in the V.03 folder
